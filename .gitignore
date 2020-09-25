@@ -1,0 +1,8 @@
+build
+**/build
+temp
+temp.*
+*.temp
+**/temp
+**/temp.*
+**/*.temp
